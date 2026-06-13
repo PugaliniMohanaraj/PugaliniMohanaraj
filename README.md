@@ -1,46 +1,33 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗ ██████╗  █████╗ ██╗     ██╗███╗   ██╗██╗
-██╔══██╗██║   ██║██╔════╝ ██╔══██╗██║     ██║████╗  ██║██║
-██████╔╝██║   ██║██║  ███╗███████║██║     ██║██╔██╗ ██║██║
-██╔═══╝ ██║   ██║██║   ██║██╔══██║██║     ██║██║╚██╗██║██║
-██║     ╚██████╔╝╚██████╔╝██║  ██║███████╗██║██║ ╚████║██║
-╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Pugalini%20Mohanaraj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn)
 
-### `> Computer Engineer  · AI/ML Enthusiast  · Software Engineer`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=👩‍💻+Full+Stack+Developer;🤖+AI+%2F+ML+Engineer;🌍+IoT+%26+Embedded+Systems+Builder;🎓+Computer+Engineering+Undergraduate)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Builder+%F0%9F%8C%8D;Computer+Engineering+Undergraduate+%F0%9F%8E%93)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=PugaliniMohanaraj&label=Profile+Views&color=7c3aed&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=PugaliniMohanaraj&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 👩‍💻 About Me
 
-```python
-class PugaliniMohanaraj:
-    def __init__(self):
-        self.name       = "Pugalini Mohanaraj"
-        self.degree     = "B.Sc. Eng. (Hons) Computer Engineering"
-        self.university = "University of Jaffna, Sri Lanka"
-        self.gpa        = 3.41
-        self.location   = "Kilinochchi, Sri Lanka 🇱🇰"
-        self.email      = "pugalini.2002@gmail.com"
-        self.focus      = ["Full Stack Development", "AI/ML", "IoT", "Embedded Systems"]
-
-    def current(self):
-        return "Building scalable, intelligent software that solves real problems 🚀"
-```
+- 🎓 **B.Sc. Eng. (Hons) Computer Engineering** — University of Jaffna, Sri Lanka *(GPA: 3.41)*
+- 🏫 Completed **Full Stack Development Training** at UKI Coding School
+- 💼 Former **Intern Lecturer** — specialized in backend development with MongoDB
+- 🤖 Passionate about **AI/ML**, LLMs, RAG, AI Agents & Agentic AI workflows
+- 🌐 Experienced in building **full-stack web & mobile apps** with React, Flutter, Spring Boot, FastAPI
+- 🔌 Hands-on with **IoT & Embedded Systems** — ATmega328P, ESP8266, Embedded C
+- 📍 Based in **Kilinochchi, Sri Lanka** 🇱🇰
+- 📧 Reach me: **pugalini.2002@gmail.com** | 📞 +94 765 857 882
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+**💬 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,7 +37,7 @@ class PugaliniMohanaraj:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend & Mobile**
+**🖥️ Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -58,7 +45,7 @@ class PugaliniMohanaraj:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & APIs**
+**⚙️ Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -66,7 +53,7 @@ class PugaliniMohanaraj:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**AI / ML**
+**🤖 AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -74,7 +61,7 @@ class PugaliniMohanaraj:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Databases & Tools**
+**🗄️ Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,6 +69,9 @@ class PugaliniMohanaraj:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -91,37 +81,62 @@ class PugaliniMohanaraj:
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 NeuroSketch – Cognitive Load Monitor</h3>
-      <p>AI-powered platform monitoring developer cognitive load using real-time behavioral data and ML inference. Built with scalable microservices, Prometheus/Grafana observability.</p>
-      <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></p>
+      <p>AI-powered platform monitoring developer cognitive load via real-time behavioral data and ML inference. Microservices with Prometheus/Grafana observability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Network Topology Simulator</h3>
-      <p>Professional web platform for designing and simulating computer network topologies with Dijkstra's shortest-path routing, packet transfer simulation, and failure analysis.</p>
-      <p><img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></p>
+      <p>Web platform for designing & simulating network topologies with Dijkstra's shortest-path routing, packet transfer simulation, and failure analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎥 VisionPrime Video Conferencing</h3>
       <p>Real-time video conferencing with WebRTC peer-to-peer communication, Socket.IO signaling, and screen sharing. <a href="https://videostreaming-3tqn.onrender.com">Live Demo ↗</a></p>
-      <p><img src="https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></p>
+      <p>
+        <img src="https://img.shields.io/badge/WebRTC-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 Earthquake Early Warning System</h3>
-      <p>IoT-based vibration monitoring with real-time alert generation using ATmega328P and ESP8266. <a href="https://earthquake-system.onrender.com">Live Demo ↗</a></p>
-      <p><img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/ESP8266-000?style=flat-square&logo=espressif&logoColor=white"/></p>
+      <p>IoT-based real-time vibration monitoring and alert system using microcontrollers and Firebase. <a href="https://earthquake-system.onrender.com">Live Demo ↗</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ESP8266-000?style=flat-square&logo=espressif&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Judes Engineers – Shop Management</h3>
-      <p>Full-stack retail management system handling inventory, purchases, and sales with secure authentication. <a href="https://judesengineers-1e211.web.app">Live Demo ↗</a></p>
-      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></p>
+      <p>Full-stack retail management system for inventory, purchases & sales with secure authentication. <a href="https://judesengineers-1e211.web.app">Live Demo ↗</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>💊 Medicine Recommendation System</h3>
-      <p>AI healthcare app for symptom-based disease prediction with voice-enabled interaction using speech recognition and ML models.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/></p>
+      <p>AI healthcare app for symptom-based disease prediction with voice-enabled interaction via speech recognition and ML models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -136,7 +151,7 @@ class PugaliniMohanaraj:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PugaliniMohanaraj&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PugaliniMohanaraj&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="56%" />
 </div>
 
 <div align="center">
@@ -145,7 +160,7 @@ class PugaliniMohanaraj:
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PugaliniMohanaraj&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
@@ -155,7 +170,7 @@ class PugaliniMohanaraj:
 
 ## 📜 Certifications
 
-| Badge | Certification | Issuer | Year |
+| 🏅 | Certification | Issuer | Year |
 |:---:|---|---|:---:|
 | 🤖 | Supervised Machine Learning: Regression & Classification | DeepLearning.AI | 2025 |
 | 🧠 | AI/ML Engineer Stage 1 & 2 | SLIIT | 2025 |
@@ -182,10 +197,4 @@ class PugaliniMohanaraj:
 
 ---
 
-<div align="center">
-
-```
-✦ Building technology that solves real problems — one commit at a time ✦
-```
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&animation=fadeIn)
