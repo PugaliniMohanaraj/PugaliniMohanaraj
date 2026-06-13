@@ -9,7 +9,7 @@
 ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝
 ```
 
-### `> Computer Engineer · Full Stack Developer · AI/ML Enthusiast`
+### `> Computer Engineer  · AI/ML Enthusiast  · Software Engineer`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Builder+%F0%9F%8C%8D;Computer+Engineering+Undergraduate+%F0%9F%8E%93)](https://git.io/typing-svg)
 
